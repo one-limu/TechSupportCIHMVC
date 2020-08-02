@@ -1,0 +1,2083 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"th",
+				"then"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"a",
+				"arr"
+			],
+			[
+				"Pos",
+				"post_list"
+			],
+			[
+				"s",
+				"slug"
+			],
+			[
+				"arra",
+				"array\t$… = array (…)"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"fo",
+				"form-group"
+			],
+			[
+				"t",
+				"textarea\tTag"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"r",
+				"reply"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ti",
+				"ticketService"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"g",
+				"getdate"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"st",
+				"statusSet"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"tic",
+				"ticket"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"ch",
+				"ChangeStatusCheckbox"
+			],
+			[
+				"in",
+				"indexOf"
+			],
+			[
+				"ind",
+				"index2"
+			],
+			[
+				"c",
+				"col-md-4"
+			],
+			[
+				"btn",
+				"btn-danger"
+			],
+			[
+				"H",
+				"halaman"
+			],
+			[
+				"l",
+				"loading"
+			],
+			[
+				"bt",
+				"btn-danger"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"p",
+				"pageDisplayed"
+			],
+			[
+				"M",
+				"myPagination"
+			],
+			[
+				"m",
+				"myPagination"
+			],
+			[
+				"pr",
+				"perpage"
+			],
+			[
+				"my",
+				"myService"
+			],
+			[
+				"T",
+				"Tkt"
+			],
+			[
+				"d",
+				"data"
+			],
+			[
+				"dipl",
+				"displayedPageNumber"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"cu",
+				"current"
+			],
+			[
+				"tick",
+				"ticketAll"
+			],
+			[
+				"fe",
+				"fetchAll"
+			],
+			[
+				"fet",
+				"fetchTicket"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"tickt",
+				"ticket"
+			],
+			[
+				"post",
+				"post_detail"
+			],
+			[
+				"is_i",
+				"is_integer"
+			],
+			[
+				"isnu",
+				"is_numeric"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"is_n",
+				"is_int"
+			],
+			[
+				"if",
+				"ifelse\t<?php if (…) ?> … <?php else ?> … <?php endif ?>"
+			],
+			[
+				"else",
+				"elseif\telseif …"
+			],
+			[
+				"arrya",
+				"array_push"
+			],
+			[
+				"gly",
+				"glyphicon-sort"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"ord",
+				"order_by"
+			],
+			[
+				"or",
+				"order_by"
+			],
+			[
+				"ad",
+				"AD"
+			],
+			[
+				"esle",
+				"elseif\telseif …"
+			],
+			[
+				"ta",
+				"tanggal_update"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"total",
+				"total_rows"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"filter",
+				"filter_limit"
+			],
+			[
+				"level",
+				"level_id"
+			],
+			[
+				"priv",
+				"priv_id"
+			],
+			[
+				"user_level",
+				"user_level_privileges"
+			],
+			[
+				"manage",
+				"managerole"
+			],
+			[
+				"mana",
+				"managerole"
+			],
+			[
+				"contet",
+				"content-wrapper"
+			],
+			[
+				"roel",
+				"role-Chooser"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"role",
+				"rolepriv"
+			],
+			[
+				"foreac",
+				"newt_form_set_background"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"user",
+				"user_level"
+			],
+			[
+				"res",
+				"result_array"
+			],
+			[
+				"html",
+				"html_entity_decode"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"cek",
+				"cek_user"
+			],
+			[
+				"kateg",
+				"kategori_id"
+			],
+			[
+				"katego",
+				"Kategori"
+			],
+			[
+				"kate",
+				"kategori_id"
+			],
+			[
+				"ticket",
+				"ticketkategori"
+			],
+			[
+				"upda",
+				"updated_nama"
+			],
+			[
+				"cur",
+				"curr_data"
+			],
+			[
+				"data",
+				"dataX"
+			],
+			[
+				"kategor",
+				"kategori_nama"
+			],
+			[
+				"creator",
+				"creator_id"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"unli",
+				"Unlimited"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"ticke",
+				"ticketstatus"
+			],
+			[
+				"ec",
+				"EC_email"
+			],
+			[
+				"is",
+				"is_nan"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"nama",
+				"_NamaUser"
+			],
+			[
+				"su",
+				"substr_count"
+			],
+			[
+				"count",
+				"array_count_values"
+			],
+			[
+				"ar",
+				"array_sum"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"arr",
+				"array_sum"
+			],
+			[
+				"type",
+				"type_show"
+			],
+			[
+				"dis",
+				"display_type"
+			],
+			[
+				"date",
+				"date_end"
+			],
+			[
+				"range",
+				"range_detail"
+			],
+			[
+				"dates",
+				"date_start"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"sta",
+				"start"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"lapo",
+				"laporan_val"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"la",
+				"laporan_val"
+			],
+			[
+				"date_",
+				"date_start"
+			],
+			[
+				"da",
+				"datediff"
+			],
+			[
+				"col",
+				"column_val"
+			],
+			[
+				"column",
+				"column_val"
+			],
+			[
+				"colu",
+				"column_val"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"status",
+				"status_1"
+			],
+			[
+				"datera",
+				"daterangepicker"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"radio",
+				"radio_click"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/application/modules/post/controllers/Post.php",
+			"settings":
+			{
+				"buffer_size": 2364,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/application/modules/post/views/post_tutorial_v.php",
+			"settings":
+			{
+				"buffer_size": 469,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/application/modules/home/views/post_list_v.php",
+			"settings":
+			{
+				"buffer_size": 1820,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/application/modules/post/models/post_model.php",
+			"settings":
+			{
+				"buffer_size": 1944,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/application/modules/ticket/controllers/ticket.php",
+			"settings":
+			{
+				"buffer_size": 1550,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "gmail kumaha",
+			"settings":
+			{
+				"buffer_size": 12,
+				"line_ending": "Windows",
+				"name": "gmail kumaha"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/application/modules/ticket/models/ticket_m.php",
+			"settings":
+			{
+				"buffer_size": 1993,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ticket_list_v.php",
+			"settings":
+			{
+				"buffer_size": 5574,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/TSS/application/models/Ticket.php",
+			"settings":
+			{
+				"buffer_size": 6043,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ticket_open_v.php",
+			"settings":
+			{
+				"buffer_size": 4430,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/application/modules/post/views/post_detail_v.php",
+			"settings":
+			{
+				"buffer_size": 2581,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/application/modules/post/views/login_v.php",
+			"settings":
+			{
+				"buffer_size": 3270,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/application/modules/login/views/login_v.php",
+			"settings":
+			{
+				"buffer_size": 3160,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/application/modules/post/views/post_informasi_v.php",
+			"settings":
+			{
+				"buffer_size": 468,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Alndra23/Document/guchi/2",
+			"settings":
+			{
+				"buffer_size": 51,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "omongan bpk trsa sakit itu kaarna omongannya itu k"
+			}
+		},
+		{
+			"contents": "-i m just  bystander doing nothing but looking, even if there is obviously something hapenning im am just indiffrent\n-sssaaaasasasasa",
+			"file": "/D/Alndra23/Document/guchi/1",
+			"file_size": 55,
+			"file_write_time": 131279203292805411,
+			"settings":
+			{
+				"buffer_size": 133,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "-i m jut  bytndr doing nothing but looking, vn if"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/assets/frontend/js/angular/app.jskkkk.js",
+			"settings":
+			{
+				"buffer_size": 4474,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/assets/frontend/js/angular/app.js2.js",
+			"settings":
+			{
+				"buffer_size": 4446,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/application/config/routes.php",
+			"settings":
+			{
+				"buffer_size": 2206,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "find out about how to mak scop total nAn",
+			"settings":
+			{
+				"buffer_size": 40,
+				"line_ending": "Windows",
+				"name": "find out about how to mak scop total nAn"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "1 \n2\n3\n4\n5--\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n\n\nif curr <= 2\n\n1 => curr-2\n2 => curr-1\n3 => curr-0\n4 => curr+1\n5 => curr+2\n\n\nif curr => total - 2",
+			"settings":
+			{
+				"buffer_size": 137,
+				"line_ending": "Windows",
+				"name": "1"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/assets/frontend/css/custom/custom_insert.css",
+			"settings":
+			{
+				"buffer_size": 262,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/application/config/autoload.php",
+			"settings":
+			{
+				"buffer_size": 4067,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/lenovo/Downloads/tableExport.sql",
+			"settings":
+			{
+				"buffer_size": 969,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/application/views/front/themes/default/header.php",
+			"settings":
+			{
+				"buffer_size": 5737,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/application/config/tssconfig.php",
+			"settings":
+			{
+				"buffer_size": 1638,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI_HMVC/assets/frontend/js/angular/app.js",
+			"settings":
+			{
+				"buffer_size": 11698,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/CI_HMVC/application/modules",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/login",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/login/controllers",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/login/controllers/backend",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/login/views",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/post",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/post/controllers",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/post/models",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/post/views",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/ticket",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/ticket/controllers",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/ticket/models",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/ticket/views"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/CI_HMVC/application/modules/post/controllers/backend/Login_Back.php",
+		"/C/xampp/htdocs/CI_HMVC/assets/frontend/js/angular/app.js",
+		"/C/xampp/htdocs/CC_E/application/modules/home/controllers/Home.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/post/models/post_model.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/post/views/post_detail_v.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/tssfront/controllers/tssfront.php",
+		"/C/xampp/htdocs/CI_HMVC/application/views/front/themes/default/layout.php",
+		"/C/xampp/htdocs/CI_HMVC/application/views/front/themes/default/footer.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/home/views/post_list_v.php",
+		"/C/xampp/htdocs/CI_HMVC/application/config/tssconfig.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/post/controllers/post.php",
+		"/C/xampp/htdocs/CI_HMVC/application/config/routes.php",
+		"/C/xampp/htdocs/CI_HMVC/assets/frontend/post/startbootstrap-blog-post-master/index.html",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/home/controllers/home_v.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/home/views/slideshow_v.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/home/views/home_v.php",
+		"/C/xampp/htdocs/Angular/index.html",
+		"/C/xampp/MyRUle/Vess Database Naming Rule",
+		"/C/xampp/MyRUle/Table SQL",
+		"/C/xampp/htdocs/Angular/application/views/manage_user_view.php",
+		"/C/xampp/htdocs/Angular/application/config/database.php",
+		"/C/xampp/htdocs/Angular/application/views/admin/_templates/header.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/home/controllers/home.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/admin/controllers/admin.php",
+		"/C/xampp/htdocs/TSS/application/controllers/admin/Kategori.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/admin/views/login/login.php",
+		"/C/xampp/htdocs/TSS/application/views/access/login.php",
+		"/C/xampp/htdocs/TSS/application/controllers/admin/Access.php",
+		"/C/xampp/htdocs/TSS/application/views/frontend/footer.php",
+		"/C/xampp/htdocs/CI_HMVC/application/config/autoload.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/admin/views/common/header.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/admin/views/common/footer.php",
+		"/C/xampp/htdocs/CI_HMVC/application/config/config.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/admin/controllers/common/Footer.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/admin/controllers/common/Header.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/admin/controllers/Footer.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/admin/controllers/Header.php",
+		"/C/xampp/htdocs/TSS/application/config/database.php",
+		"/C/xampp/htdocs/CI_HMVC/application/config/database.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/admin/views/admin.php",
+		"/C/xampp/htdocs/TSS/application/views/design/footer.php",
+		"/C/xampp/htdocs/CI_HMVC/application/modules/home/views/vhome.php",
+		"/C/xampp/htdocs/Angular/application/models/Ion_auth_model.php",
+		"/C/Users/lenovo/AppData/Local/Temp/Rar$DIa0.755/Auth.php",
+		"/C/Users/lenovo/AppData/Local/Temp/Rar$DIa0.854/login.php",
+		"/C/xampp/htdocs/CI_HMVC/application/views/welcome/themes/default/footer.php",
+		"/C/xampp/htdocs/CI_HMVC/application/views/welcome/themes/default/layout.php",
+		"/C/xampp/htdocs/CI_HMVC/application/views/welcome/themes/default/content.php",
+		"/C/xampp/htdocs/CI_HMVC/application/views/welcome/themes/default/header.php",
+		"/C/xampp/htdocs/Angular/application/controllers/manage_user.php",
+		"/C/xampp/htdocs/Angular/application/views/welcome_message.php",
+		"/C/xampp/htdocs/TSS/application/models/TicketLaporan.php",
+		"/C/xampp/htdocs/TSS/application/models/draft/ticketlaporna.bak",
+		"/C/xampp/htdocs/TSS/application/models/Thread.php",
+		"/C/xampp/htdocs/TSS/application/models/ThreadMessage.php",
+		"/C/xampp/htdocs/TSS/application/controllers/MemberArea.php",
+		"/C/xampp/htdocs/TSS/application/config/constants.php",
+		"/C/xampp/htdocs/TSS/application/controllers/informasi.php",
+		"/C/xampp/htdocs/TSS/application/controllers/Tutorial.php",
+		"/C/xampp/htdocs/TSS/application/models/User.php",
+		"/C/xampp/htdocs/TSS/application/models/Userlevelprivileges.php",
+		"/C/xampp/htdocs/TSS/application/models/Userlevel.php",
+		"/C/xampp/htdocs/TSS/application/models/Ticket.php",
+		"/C/xampp/htdocs/TSS/application/models/FileManager.php",
+		"/C/xampp/htdocs/TSS/application/models/Manageinformasi.php",
+		"/C/xampp/htdocs/TSS/application/models/ManageRole.php",
+		"/C/xampp/htdocs/TSS/application/models/Tutorial.php",
+		"/C/xampp/htdocs/TSS/application/models/TicketStatus.php",
+		"/C/xampp/htdocs/TSS/application/controllers/Home.php",
+		"/C/xampp/htdocs/TSS/application/models/Task.php",
+		"/C/xampp/htdocs/TSS/application/models/TicketKategori.php",
+		"/C/xampp/htdocs/TSS/application/controllers/admin/Profile.php",
+		"/C/xampp/htdocs/TSS/application/controllers/admin/Managetask.php",
+		"/C/xampp/htdocs/TSS/application/controllers/admin/Manageticket.php",
+		"/C/xampp/htdocs/TSS/application/controllers/admin/Laporan.php",
+		"/C/xampp/htdocs/TSS/application/controllers/admin/Users.php",
+		"/C/xampp/htdocs/TSS/application/controllers/Logout.php",
+		"/C/xampp/htdocs/TSS/application/controllers/admin/Manageattachment.php",
+		"/C/xampp/htdocs/TSS/application/controllers/admin/Artikel.php",
+		"/C/xampp/htdocs/TSS/application/controllers/admin/Informasi.php",
+		"/C/xampp/htdocs/TSS/application/controllers/admin/Role.php",
+		"/C/xampp/htdocs/TSS/application/views/design/header.php",
+		"/D/Alndra23/Document/KP_ELEFAN/processing_order/application/models/m_adod.php",
+		"/D/Alndra23/Document/KP_ELEFAN/processing_order/application/views/tambah_adod.php",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/admin.php",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/l",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/Ticket_Buka.php",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/Task_buka.php",
+		"/C/xampp/htdocs/TSS/application/views/frontend/memberarea_sidebar.php",
+		"/C/xampp/htdocs/TSS/application/models/Informasi.php",
+		"/C/xampp/htdocs/TSS/application/controllers/Login.php",
+		"/C/xampp/htdocs/TSS/application/views/frontend/home.php",
+		"/C/xampp/htdocs/TSS/application/views/frontend/memberarea.php",
+		"/C/xampp/htdocs/TSS/application/views/frontend/buka_tiket.php",
+		"/C/xampp/htdocs/TSS/application/controllers/Buka.php",
+		"/C/xampp/htdocs/TSS/_assets/css/main.css",
+		"/C/xampp/htdocs/TSS/application/views/frontend/member_open_ticket.php",
+		"/C/xampp/htdocs/TSS/application/views/frontend/buat_tiket.php",
+		"/C/xampp/htdocs/TSS/application/views/frontend/header.php",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/Ticket.php",
+		"/C/xampp/htdocs/TSS/assets/custom/custom.js",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/Task.php",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/Users.php",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/Kategori.php",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/Laporan.php",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/Artikel.php",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/Informasi.php",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/Role.php",
+		"/C/xampp/htdocs/TSS/application/views/frontend/informasi.php",
+		"/C/xampp/htdocs/perpus/assets/js/home.js",
+		"/C/xampp/htdocs/perpus/assets/js/Digilib.js",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/TO DO",
+		"/C/Users/lenovo/Desktop/dd.html",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/popup/modal_buat_task.php",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/popup/modal_edit_user.php",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/popup/modal_edit_kategori.php",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/popup/modal_tambah_informasi.php",
+		"/C/xampp/htdocs/TSS/application/views/dashboard/popup/modal_edit_informasi.php",
+		"/C/xampp/htdocs/TSS/application/controllers/VerifyLogin.php",
+		"/D/Alndra23/Document/SUPREME SUBLIME OPTI/Harus",
+		"/C/xampp/htdocs/crawler/home.php",
+		"/D/Alndra23/Document/dATASk/PROGRAM/akreditasi/system/core/Common.php",
+		"/C/xampp/htdocs/TSS/application/controllers/admin/Logout.php",
+		"/C/xampp/htdocs/TSS/application/models/Role.php",
+		"/C/xampp/htdocs/TSS/_assets/css/plugin_inbox.css",
+		"/C/xampp/htdocs/perpus/application/models/Users_OP.php",
+		"/C/Users/lenovo/Desktop/kkkk",
+		"/C/xampp/htdocs/TSS/application/controllers/Buat.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t\t\t\t\t\t\t\t\t\t\n",
+			"post_comment",
+			"thisReply",
+			"all",
+			"tkt",
+			"t",
+			"txt",
+			"alert",
+			"total",
+			"= 1",
+			"=1",
+			">\n",
+			"alert",
+			"ticketa",
+			"fetchti",
+			"\"",
+			"ervice",
+			"name",
+			">\n",
+			"safe",
+			"id",
+			"=\"\"",
+			"$",
+			"width",
+			"http",
+			"google",
+			"../",
+			"$",
+			"base_url('../assets/",
+			"/wrapper",
+			"http",
+			"ticket",
+			"task",
+			"flashda",
+			"flash",
+			"276",
+			"$role",
+			"role",
+			"ticket",
+			"task",
+			"role",
+			"jssor",
+			"jss",
+			"id",
+			"order_by",
+			"judul",
+			"admin",
+			"fa-en",
+			"<?=",
+			"<<",
+			"print",
+			"page",
+			"ech",
+			"echo",
+			"butt",
+			"wrapp",
+			"button",
+			"echo",
+			"butto",
+			"search",
+			"mana",
+			">\n",
+			" <?php \n              if(!in_",
+			" }?>\n            ?>",
+			"get",
+			"delete",
+			"insert",
+			"isi",
+			"data",
+			"updated",
+			"get",
+			"join",
+			"update",
+			"informasi",
+			"sessi",
+			"tiketIn",
+			"edit",
+			"page()",
+			"page",
+			"tanggal_update",
+			"creator_id",
+			"creat",
+			"ticket",
+			"ticket_",
+			"ticket",
+			"index",
+			"informasi",
+			"ticket",
+			"update",
+			"upfate",
+			"update",
+			"$updated_kategori_nama",
+			");\n",
+			"defaul",
+			"load",
+			"user",
+			"kategoris",
+			"user",
+			"echo",
+			"cek_sess",
+			"mustLo",
+			"page",
+			"echo",
+			"        \n",
+			"print",
+			"ifconfig",
+			"last_q",
+			"last_",
+			"print",
+			"fet",
+			"user",
+			"']; ",
+			"user",
+			"useers",
+			"td>",
+			"option",
+			"btn-danger",
+			"tambah",
+			"_nam",
+			"n_nama",
+			"nama_user",
+			"});\n",
+			"user_id",
+			"load",
+			"modal",
+			"today",
+			"Y/",
+			"y/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"base_url('../assets/admin/",
+			" \n              if(!in_",
+			" }?>\n            ",
+			"updated_time",
+			"author",
+			"information",
+			"info_",
+			"info",
+			"informasi",
+			"tutorial",
+			"information",
+			"kategori",
+			"th>",
+			"task",
+			"  $page = array('current_page' => 'task'); ",
+			"'ticket'); ",
+			"ticket",
+			"<?php",
+			"echo 'active';",
+			"'ticket_status'",
+			"kategori",
+			"thread_message",
+			"thread",
+			"Thread",
+			"status_id",
+			"task_status",
+			"task",
+			"status",
+			"prioritas",
+			"prioritas_nama",
+			"kategori",
+			"kategori_nama",
+			"user_privileges",
+			"priv_id",
+			"priv_nama",
+			"user_level_priv_nama"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/CI_HMVC/application/modules/post/controllers/Post.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								307,
+								307
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 62.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/CI_HMVC/application/modules/post/views/post_tutorial_v.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								88
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/CI_HMVC/application/modules/home/views/post_list_v.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1820,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1522,
+								1522
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 280.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/CI_HMVC/application/modules/post/models/post_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1944,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1692,
+								1703
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 750.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/xampp/htdocs/CI_HMVC/application/modules/ticket/controllers/ticket.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								810,
+								816
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 148.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"auto_name": "gmail kumaha",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/xampp/htdocs/CI_HMVC/application/modules/ticket/models/ticket_m.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1216,
+								1216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "ticket_list_v.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3941,
+								3941
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/xampp/htdocs/TSS/application/models/Ticket.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2103,
+								2136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 207.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "ticket_open_v.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1435,
+								1435
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/xampp/htdocs/CI_HMVC/application/modules/post/views/post_detail_v.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1892,
+								1892
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/xampp/htdocs/CI_HMVC/application/modules/post/views/login_v.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								882,
+								893
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/xampp/htdocs/CI_HMVC/application/modules/login/views/login_v.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1194,
+								1194
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/xampp/htdocs/CI_HMVC/application/modules/post/views/post_informasi_v.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 468,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/D/Alndra23/Document/guchi/2",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"auto_name": "omongan bpk trsa sakit itu kaarna omongannya itu k",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/D/Alndra23/Document/guchi/1",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"auto_name": "-i m jut  bytndr doing nothing but looking, vn if",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/D/Alndra23/Document/guchi/1",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"auto_name": "-i m jut  bytndr doing nothing but looking, vn if",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/xampp/htdocs/CI_HMVC/assets/frontend/js/angular/app.jskkkk.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2341,
+								2341
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 985.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/C/xampp/htdocs/CI_HMVC/assets/frontend/js/angular/app.js2.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								4446
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1938.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/C/xampp/htdocs/CI_HMVC/application/config/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 521.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"auto_name": "find out about how to mak scop total nAn",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								41
+							]
+						],
+						"settings":
+						{
+							"auto_name": "1",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/C/xampp/htdocs/CI_HMVC/assets/frontend/css/custom/custom_insert.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/C/xampp/htdocs/CI_HMVC/application/config/autoload.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2842,
+								2842
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 823.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/C/Users/lenovo/Downloads/tableExport.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 4563.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "/C/xampp/htdocs/CI_HMVC/application/views/front/themes/default/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								828,
+								828
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "/C/xampp/htdocs/CI_HMVC/application/config/tssconfig.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1301,
+								1301
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "/C/xampp/htdocs/CI_HMVC/assets/frontend/js/angular/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1260,
+								1260
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 227.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "",
+	"project": "yk.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
