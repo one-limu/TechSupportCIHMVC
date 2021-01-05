@@ -7,6 +7,8 @@
  * Released under the BSD-2-Clause license
  * https://github.com/jtblin/angular-chart.js/blob/master/LICENSE
  */
+//aaa
+
 (function (factory) {
   'use strict';
   if (typeof exports === 'object') {
